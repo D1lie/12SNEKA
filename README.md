@@ -10,6 +10,11 @@ Created by: d1lie
 
 12SNEKA is an advanced web vulnerability scanner designed to identify security weaknesses in web applications.
 
+<p align="center">
+  <img src="SC_12snake.png" alt="12SNEKA Interface Screenshot" style="width:100%;max-width:1200px;border:1px solid #ddd">
+</p>
+
+
 ## Features
 
 - Comprehensive web vulnerability scanning
